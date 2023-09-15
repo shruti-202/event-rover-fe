@@ -1,11 +1,5 @@
-import React from 'react'
-
 function EventDetail() {
-  return (
-    <div>
-      
-    </div>
-  )
+  return <div></div>;
 }
 
-export default EventDetail
+export default EventDetail;

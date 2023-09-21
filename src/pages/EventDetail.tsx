@@ -1,5 +1,12 @@
-function EventDetail() {
-  return <div></div>;
+
+
+const EventDetail = () => {
+  return (
+    <div>
+      Event
+    </div>
+  )
 }
 
-export default EventDetail;
+export default EventDetail
+

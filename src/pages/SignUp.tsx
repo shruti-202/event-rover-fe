@@ -1,5 +1,12 @@
-function Signup() {
-  return <div>SignUp</div>;
+
+
+const SignUp = () => {
+  return (
+    <div>
+      SignUp
+    </div>
+  )
 }
 
-export default Signup;
+export default SignUp
+

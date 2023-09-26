@@ -4,13 +4,11 @@ import Footer from '../components/main/Footer'
 
 function MainLayout() {
   return (
-    <div>
       <main>
         <Header/>
         <Outlet/>
         <Footer/>
       </main>
-    </div>
   )
 }
 
